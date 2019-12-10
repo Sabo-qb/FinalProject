@@ -12,10 +12,11 @@
         android:layout_height="wrap_content"
         android:text="@string/product1_title"
         android:textSize="30sp" />
+
     <ImageView
-        android:src="@drawable/pods"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
+        android:layout_height="242dp"
+        android:src="@drawable/pods" />
 
     <TextView
         android:id="@+id/oldPrice"
